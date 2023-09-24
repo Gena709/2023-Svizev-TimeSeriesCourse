@@ -10,6 +10,7 @@ default_metrics_params = {'euclidean': {'normalize': True},
 
 class TimeSeriesKNN:
     """
+
     KNN Time Series Classifier.
 
     Parameters

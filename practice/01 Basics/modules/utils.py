@@ -27,6 +27,7 @@ def sliding_window(ts, window, step=1):
     """
     Extract subsequences from time series using sliding window.
 
+
     Parameters
     ----------
     ts : numpy.ndarray
